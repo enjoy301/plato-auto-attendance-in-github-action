@@ -1,0 +1,1 @@
+# plato-auto-attendance-in-github-action
